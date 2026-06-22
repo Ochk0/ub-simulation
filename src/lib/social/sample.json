@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-06-22T12:41:00+08:00",
+  "source": "tsaaguur.mn",
+  "live": false,
+  "trends": [
+    { "id": "t1", "rank": 1, "title": "нөхөн сонгууль", "titleEn": "by-election", "category": "politics", "emoji": "🏛️", "sentiment": "positive", "reactions": 3400, "comments": 835, "shares": 418, "posts": 28, "news": 11, "score": 324.6 },
+    { "id": "t2", "rank": 2, "title": "бортээгийн ордын нээлт", "titleEn": "Bortee deposit opening", "category": "economy", "emoji": "📊", "sentiment": "neutral", "reactions": 4100, "comments": 501, "shares": 140, "posts": 24, "news": 9, "score": 181 },
+    { "id": "t3", "rank": 3, "title": "улаанбаатар их дуулга", "titleEn": "Ulaanbaatar grand concert", "category": "culture", "emoji": "🎬", "sentiment": "positive", "reactions": 5000, "comments": 213, "shares": 96, "posts": 18, "news": 4, "score": 125 },
+    { "id": "t4", "rank": 4, "title": "жүдо спорт", "titleEn": "judo", "category": "sports", "emoji": "🏆", "sentiment": "positive", "reactions": 2300, "comments": 93, "shares": 61, "posts": 14, "news": 6, "score": 90 },
+    { "id": "t5", "rank": 5, "title": "ногоон орон сууц", "titleEn": "green housing", "category": "housing", "emoji": "🌫️", "sentiment": "positive", "reactions": 31000, "comments": 2100, "shares": 410, "posts": 22, "news": 7, "score": 80 },
+    { "id": "t6", "rank": 6, "title": "отгонтэнгэр тахилга", "titleEn": "Otgontenger worship", "category": "religion", "emoji": "✈️", "sentiment": "neutral", "reactions": 31400, "comments": 6000, "shares": 520, "posts": 19, "news": 3, "score": 75 },
+    { "id": "t7", "rank": 7, "title": "дорнын зурхай", "titleEn": "eastern astrology", "category": "culture", "emoji": "📊", "sentiment": "neutral", "reactions": 838, "comments": 162, "shares": 44, "posts": 12, "news": 1, "score": 54 },
+    { "id": "t8", "rank": 8, "title": "оюу толгойн маргаан", "titleEn": "Oyu Tolgoi dispute", "category": "economy", "emoji": "📊", "sentiment": "negative", "reactions": 11300, "comments": 3900, "shares": 612, "posts": 31, "news": 14, "score": 50 },
+    { "id": "t9", "rank": 9, "title": "аврах ажиллагаа", "titleEn": "rescue operations", "category": "emergency", "emoji": "📊", "sentiment": "positive", "reactions": 632, "comments": 21, "shares": 18, "posts": 10, "news": 5, "score": 41 },
+    { "id": "t10", "rank": 10, "title": "скүүтер мопед хаалт", "titleEn": "scooter / moped ban", "category": "transport", "emoji": "📊", "sentiment": "neutral", "reactions": 776, "comments": 189, "shares": 73, "posts": 8, "news": 3, "score": 40 }
+  ],
+  "topPosts": [
+    { "id": "p1", "author": "Өвгөнхүү Барсүрэн", "text": "🇲🇳 Увс аймгийн ИТХ-ын нөхөн сонгуульд надад итгэл хүлээлгэн дэмжсэн Чандманьчууддаа баярлалаа. Та бүхнийхээ итгэлийг зүтгэлээр хариулах болно.", "likes": 918, "comments": 359, "shares": 181 },
+    { "id": "p2", "author": "Fundea", "text": "Нийгмийн оролцоо том хөрөнгө оруулалтаар бус Иргэн бүрийн оролцоо #ХАМТЫН_САНХҮҮЖИЛТЭЭР эхэлдэг. #хамтдаа_санхүүжүүлцгээе", "likes": 1300, "comments": 20, "shares": 26 },
+    { "id": "p3", "author": "Монгол Улсын Засгийн газар", "text": "Нүүрс тээврийн жолоочид Ерөнхий сайд Н.Учрал, Засгийн газрын гишүүдэд санал, хүсэлтээ илэрхийлж байна.", "likes": 656, "comments": 92, "shares": 454 },
+    { "id": "p4", "author": "Toyota Tavan Bogd Automotive", "text": "Хот хоорондын замд эсрэг урсгалын машин гэрлээрээ дохиж бусдадаа хурд хэмжиж буйг мэдээлдэг. Ямар ч тохиолдолд 80 км/ц дээр хурдаа барих нь чухал.", "likes": 632, "comments": 15, "shares": 114 }
+  ],
+  "clusters": [
+    { "id": "c1", "title": "дархан-уул нөхөн сонгууль", "subtopics": ["дархан-уул нөхөн сонгууль", "нөхөн сонгууль"], "posts": 29, "score": 324 },
+    { "id": "c2", "title": "бортээгийн ордын нээлт", "subtopics": ["бортээгийн ордын авлига", "бортээгийн ордын нээлт"], "posts": 24, "score": 229 },
+    { "id": "c3", "title": "цаг агаарын мэдээ", "subtopics": ["дуу цахилгаантай аадар бороо", "цочир хүйтэн сэрэмжлүүлэг", "цасан шуурганы сэрэмжлүүлэг", "аадар бороо сэрэмжлүүлэг"], "posts": 38, "score": 144 },
+    { "id": "c4", "title": "эрчим хүчний хөгжил", "subtopics": ["эрчим хүчний гудамжны өргөтгөл", "эрчим хүчний замын засвар", "эрчим хүчний хөгжил"], "posts": 8, "score": 60 },
+    { "id": "c5", "title": "тэтгэврийн реформ", "subtopics": ["тэтгэврийн шударга тогтолцоо", "тэтгэврийн дахин бодолт", "олон давхаргат тэтгэвэр", "тэтгэврийн шинэчлэл"], "posts": 17, "score": 51 },
+    { "id": "c6", "title": "цахим үйлчилгээ", "subtopics": ["цахимжилтийн хөгжил", "цахим үйлчилгээ", "цахим хөгжил"], "posts": 19, "score": 43 },
+    { "id": "c7", "title": "аврах ажиллагаа", "subtopics": ["цооног аврал технологи", "амь аврах баатар", "аврах ажиллагаа", "аврах төхөөрөмж"], "posts": 10, "score": 41 },
+    { "id": "c8", "title": "скүүтер мопед хаалт", "subtopics": ["мопед скүүтер хаалт", "скүүтер мопед хаалт"], "posts": 8, "score": 40 }
+  ]
+}
